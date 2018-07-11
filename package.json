@@ -1,0 +1,17 @@
+{
+  "name": "sop",
+  "version": "0.0.0",
+  "description": "development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodeJs-zip": "^1.0.4",
+    "ssh2": "latest",
+    "svn-spawn": "^0.1.5"
+  },
+  "author": "rancheng",
+  "license": "ISC",
+  "dependencies": {}
+}
